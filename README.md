@@ -2,7 +2,7 @@
 
 A fully passive, single-axis solar tracker that follows the sun using **paraffin wax phase-change actuation** — no motors, no sensors, no electricity.
 
-**ME 325 — Third Year Engineering Project 
+ME 325 — Third Year Engineering Project 
 ---
 
 ## Demo
