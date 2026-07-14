@@ -7,7 +7,7 @@ ME 325 — Third Year Engineering Project
 
 ## Demo
 
-[Watch the mechanism in action (YouTube, unlisted)](PASTE_YOUTUBE_LINK_HERE)
+[Watch the mechanism in action (YouTube, unlisted)](https://youtu.be/zYTDFJzssF4)
 
 ---
 
