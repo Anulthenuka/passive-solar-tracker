@@ -102,6 +102,6 @@ Simulation (Excel/MATLAB) confirmed the design meets the target lag of under 8°
 
 ## Presentation
 
-[View full project presentation](Presentation PDF/presentation.pdf)
+[View full project presentation](docs/SolarTrack.pdf)
 
 ---
